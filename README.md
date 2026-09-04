@@ -12,7 +12,7 @@
 
 ---
 
-### About me
+<h3 align="center">About me</h3>
 
 I'm a second-year Math & CS student, currently specializing in AI. My long-term goal is to grow into **MLOps engineer** but I'm always open to any stack, right now I'm still exploring the field and figuring out exactly where I fit best, and I'm genuinely open to learning anything that gets me closer.
 
@@ -26,15 +26,15 @@ Worked as a Junior+ SRE at T-bank (previously Tinkoff), and it turned out to be 
 
 ---
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,sklearn,go,cs,dotnet,linux,docker,prometheus,grafana,terraform,elasticsearch,mysql,postgres,git,github,githubactions,gitlab" />
 </p>
 
 ---
 
-### Funny achievements
+<h3 align="center">Funny Achievements</h3>
 
 - 🤖 Prize-winner at robotcs & science conferences
 - 🎯 Semifinalist in national tech competitions
@@ -44,14 +44,16 @@ Worked as a Junior+ SRE at T-bank (previously Tinkoff), and it turned out to be 
 
 ---
 
-### GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Halvarius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halvarius&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center"> 
+  
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HalvaHD&show_icons=true&theme=ayu-mirage&count_private=true&hide_border=true" /> 
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HalvaHD&layout=compact&theme=ayu-mirage&hide_border=true" /> 
 </p>
+
 ---
 
 <p align="center">
-  <em>I hope to not get lost. If you have anything for me, feel free to contact</em>
+  <em>Masters are not kings, they're made to be surpassed</em>
 </p>
