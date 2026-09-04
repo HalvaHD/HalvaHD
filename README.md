@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/HalvaHD/HalvaHD/main/CentralUniversityLogo.png" height="28" />
+  <img src="https://raw.githubusercontent.com/HalvaHD/HalvaHD/main/TinkoffLogo-inverted.png" height="28" />
+</p>
+<p align="center">  
   <img src="https://img.shields.io/badge/Central%20University-ML%20%2729-2E9EF7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/English-C1%20Certified-4CAF50?style=for-the-badge" />
 </p>
